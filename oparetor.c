@@ -18,14 +18,14 @@
             {
             if(strcmp(op[i],a)==0)
             {
-             printf("Operator.");
+             printf("Operator\n");
               key = false;
               break;
        }
        }
         if(key == true)
          {
-           printf("Not Operator");
+           printf("Not Operator\n");
 
 
     }
